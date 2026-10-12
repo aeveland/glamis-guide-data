@@ -10,4 +10,4 @@ is edited by hand.
 - Releases: one zip per app (Lowrance, onX Offroad, Gaia GPS, Polaris Ride
   Command, other apps) with the places and closed areas as GPX and the
   imagery in the form that app can use, plus `manifest.json` with SHA-256
-  sums. Import steps: https://glamisguide.app/downloads/
+  sums. Each zip's README.txt has the import steps.
